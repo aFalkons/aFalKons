@@ -4,7 +4,24 @@
 </div>
 </br>
 <img align="right" src="https://github.com/aFalkons/aFalKons/blob/main/aFalkons.png" width="42%" >
+
+</td></tr></table>
+
+## Expertises
+<table border = 3 <table><tr><td valign="top" align="left" width="20%">
+### Languages
+<div align="center">
+	<img src="badges/Languages/Python.svg"/>
+	<img src="badges/Languages/Bash.svg"/>
+	<img src="badges/Languages/C++.svg"/>
+	<img src="badges/Languages/C.svg"/>
+	<img src="badges/Languages/Java.svg"/>
+	<img src="badges/Languages/Ruby.svg"/>
+	<img src="badges/Languages/JavaScript.svg"/>
+	<img src="badges/Languages/HTML5.svg"/>
 </div>
+
+</td></tr></table>
 
 ## Github Profile Stats: 
 <tr>
