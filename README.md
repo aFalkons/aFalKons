@@ -21,7 +21,7 @@
 <tr>
 <td>
 	<a href="https://github.com/aFalkons">
-		<img src="https://github-readme-stats.vercel.app/api?username=aFalkons&show_icons=true&count_private=true&hide_border=TRUE&theme=cobalt2" height="50%" >
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aFalkons&show_icons=true&count_private=true&hide_border=TRUE&theme=cobalt2" height="50%" >
 	</a> 
 </td>
 <td>
