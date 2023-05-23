@@ -2,8 +2,7 @@
 <div valign="center">
 	I'm Andrea
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-" height="50%" >
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aFalkons)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **aFalkons/aFalKons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
