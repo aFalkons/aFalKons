@@ -23,3 +23,9 @@
 	</a>
 </td>
 </tr>
+
+## 42 Intra Stats:
+<table><tr>
+	<img src= "https://badge42.vercel.app/api/v2/cli07fxlp000608l4caao8o2u/stats?cursusId=21&coalitionId=125&hide_border=TRUE" /></a>
+</tr></table>
+</div>
