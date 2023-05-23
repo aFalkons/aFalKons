@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Welcome to my GitHub Page! 
-<div align="center">
+<div valign="center">
 	I'm Andrea
 </div>
 <!--
