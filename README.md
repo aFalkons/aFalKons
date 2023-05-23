@@ -3,7 +3,7 @@
 	I'm Andrea <3
 </div>
 </br>
-<img src="https://github.com/aFalkons/aFalKons/blob/main/aFalkons.png" width="28%" >
+<img src="https://github.com/aFalkons/aFalKons/blob/main/aFalkons.png" width="42%" >
 <!--
 **aFalkons/aFalKons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
