@@ -1,8 +1,9 @@
-### Hi there 👋
 # Welcome to my GitHub Page! 
 <div valign="center">
 	I'm Andrea
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+" height="50%" >
 <!--
 **aFalkons/aFalKons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
