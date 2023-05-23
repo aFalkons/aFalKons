@@ -10,15 +10,15 @@
 <tr>
 <td>
 	<a href="https://github.com/aFalkons">
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aFalkons&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" height="50%" >
+		<img src="https://github-readme-stats.vercel.app/api?username=aFalkons&show_icons=true&count_private=true&hide_border=TRUE&theme=cobalt2" height="50%" >
 	</a> 
 </td>
 <td>
 	<a href="https://github.com/aFalkons?tab=repositories">
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aFalkons&hide_border=true&theme=gruvbox&langs_count=10&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff" width="28%" >
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aFalkons&langs_count=5&theme=cobalt2&hide=contribs,prs&cache_seconds=86400&hide_border=TRUE" width="28%" >
 	</a>
 	<a href="https://github.com/aFalkons/aFalKons">
-                <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aFalkons&repo=aFalkons&langs_count=10&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="49%" />
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aFalkons&repo=aFalkons&langs_count=5&theme=cobalt2&hide=contribs,prs&cache_seconds=86400&hide_border=true" width="49%" />
 	</a>
 	</a>
 </td>
