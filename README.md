@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://github.com/aFalkons">
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aFalcons_icons=true&count_private=true&hide_border=true&bg_color=30,0cbadf,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="50%" >
+</a> 
 <!--
 **aFalkons/aFalKons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
