@@ -5,11 +5,12 @@
 <img align="right" src="https://github.com/aFalkons/aFalKons/blob/main/aFalkons.png" width="42%" >
 
 ## Expertises
-	
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,vim,photoshop,vscode,java,javascript,html,c,css,wordpress,github,arduino,discord,bash&perline=5" />
   </a>
+	<img src="https://github.com/aFalkons/aFalKons/blob/main/sources/keyblade.gif" width="100"/>
 </p>
 
 ## Github Profile Stats: 
