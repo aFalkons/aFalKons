@@ -1,11 +1,8 @@
-# Welcome to my GitHub Page! 
-<div valign="center">
-	I'm Andrea <3
+<div valign="left">
+	<img src="https://github.com/aFalkons/aFalKons/blob/main/sources/Welcome_bg.png"&width="100%"/>
 </div>
-</br>
-<img align="right" src="https://github.com/aFalkons/aFalKons/blob/main/aFalkons.png" width="42%" >
 
-</td></tr></table>
+<img align="right" src="https://github.com/aFalkons/aFalKons/blob/main/aFalkons.png" width="42%" >
 
 ## Expertises
 	
