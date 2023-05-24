@@ -1,5 +1,5 @@
 <div valign="left">
-	<img src="https://github.com/aFalkons/aFalKons/blob/main/sources/Welcome_BG.png"&width="100%"/>
+	<img src="https://github.com/aFalkons/aFalKons/blob/main/sources/Welcome_BG.jpg"&width="100%"/>
 </div>
 
 <img align="right" src="https://github.com/aFalkons/aFalKons/blob/main/aFalkons.png" width="42%" >
