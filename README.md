@@ -8,17 +8,14 @@
 </td></tr></table>
 
 ## Expertises
-<table border = 3 <table><tr><td valign="top" align="left" width="20%">
 	
-<div align="center">
-	<img src="badges/Languages/Python.svg"/>
-</div>
-
-
-</td></tr></table>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,vim,photoshop,vscode,&perline=5" />
+  </a>
+</p>
 
 ## Github Profile Stats: 
-<tr>
 <td>
 	<a href="https://github.com/aFalkons">
 		<img src="https://github-readme-stats.vercel.app/api?username=aFalkons&theme=cobalt2&show_icons=true&count_private=true&hide_border=TRUE&hide=contribs,prs&cache_seconds=86400" height="50%" >
@@ -26,10 +23,10 @@
 </td>
 <td>
 	<a href="https://github.com/aFalkons?tab=repositories">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aFalkons&langs_count=5&theme=cobalt2&hide=contribs,prs&cache_seconds=86400&hide_border=TRUE" width="28%" >
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aFalkons&langs_count=5&theme=cobalt2&hide=contribs,prs&cache_seconds=86400&hide_border=TRUE" width="468">
 	</a>
 	<a href="https://github.com/aFalkons/aFalKons">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aFalkons&repo=aFalkons&langs_count=5&theme=cobalt2&hide=contribs,prs&cache_seconds=86400&hide_border=true" width="49%" />
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aFalkons&repo=aFalkons&langs_count=5&theme=cobalt2&hide=contribs,prs&cache_seconds=86400&hide_border=true" width="468" />
 	</a>
 	</a>
 </td>
