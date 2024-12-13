@@ -67,17 +67,7 @@
 
 
 <!-- BEGIN CHESS BOARD -->
-|   | A | B | C | D | E | F | G | H |   |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **8** | <img src="sources/anarcandy/bR.svg" width=50px> | <img src="sources/anarcandy/bN.svg" width=50px> | <img src="sources/anarcandy/bB.svg" width=50px> | <img src="sources/anarcandy/bQ.svg" width=50px> | <img src="sources/anarcandy/bK.svg" width=50px> | <img src="sources/anarcandy/bB.svg" width=50px> | <img src="sources/anarcandy/bN.svg" width=50px> | <img src="sources/anarcandy/bR.svg" width=50px> | **8** |
-| **7** | <img src="sources/anarcandy/bP.svg" width=50px> | <img src="sources/anarcandy/bP.svg" width=50px> | <img src="sources/anarcandy/bP.svg" width=50px> | <img src="sources/anarcandy/bP.svg" width=50px> | <img src="sources/anarcandy/bP.svg" width=50px> | <img src="sources/anarcandy/bP.svg" width=50px> | <img src="sources/anarcandy/bP.svg" width=50px> | <img src="sources/anarcandy/bP.svg" width=50px> | **7** |
-| **6** | <img width=50px> | <img width=50px> | <img width=50px> | <img  width=50px> | <img  width=50px> | <img  width=50px> | <img width=50px> | <img width=50px> | **6** |
-| **5** | <img width=50px> | <img width=50px> | <img width=50px> | <img  width=50px> | <img  width=50px> | <img  width=50px> | <img width=50px> | <img width=50px> | **5** |
-| **4** | <img width=50px> | <img width=50px> | <img width=50px> | <img  width=50px> | <img  width=50px> | <img  width=50px> | <img width=50px> | <img width=50px> | **4** |
-| **3** | <img width=50px> | <img width=50px> | <img width=50px> | <img  width=50px> | <img  width=50px> | <img  width=50px> | <img width=50px> | <img width=50px> | **3** |
-| **2** | <img src="sources/anarcandy/wP.svg" width=50px> | <img src="sources/anarcandy/wP.svg" width=50px> | <img src="sources/anarcandy/wP.svg" width=50px> | <img src="sources/anarcandy/wP.svg" width=50px> | <img src="sources/anarcandy/wP.svg" width=50px> | <img src="sources/anarcandy/wP.svg" width=50px> | <img src="sources/anarcandy/wP.svg" width=50px> | <img src="sources/anarcandy/wP.svg" width=50px> | **2** |
-| **1** | <img src="sources/anarcandy/wR.svg" width=50px> | <img src="sources/anarcandy/wN.svg" width=50px> | <img src="sources/anarcandy/wB.svg" width=50px> | <img src="sources/anarcandy/wQ.svg" width=50px> | <img src="sources/anarcandy/wK.svg" width=50px> | <img src="sources/anarcandy/wB.svg" width=50px> | <img src="sources/anarcandy/wN.svg" width=50px> | <img src="sources/anarcandy/wR.svg" width=50px>| **1** |
-|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
+
 <!-- END CHESS BOARD -->
 
 
